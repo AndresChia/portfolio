@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Intro() {
   return (
     <div>
@@ -32,7 +34,7 @@ export default function Intro() {
             <p>675 234 4323</p>
           </div>
         </div>
-        <img
+        <Image
           className="hidden md:block object-cover w-1/4 h-screen rounded-full ring-2 ring-gray-500/50 ring-offset-[30px]"
           src="https://i.ibb.co/Byd813Q/mateus-campos-felipe-Zxd-JFg-SGQBA-unsplash.jpg"
           alt="Your Name Here"
