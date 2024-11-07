@@ -19,7 +19,7 @@ export default function Experience() {
               encargándose de la migración y mantenimiento de sitios web
               previamente desarrollados en Angular. Mi rol se centró en asegurar
               que la infraestructura técnica y el código fueran eficientes y
-              escalables en el nuevo entorno de desarrollo
+              escalables en el nuevo entorno de desarrollo.
             </p>
           </div>
         </div>
