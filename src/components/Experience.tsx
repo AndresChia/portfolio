@@ -17,7 +17,7 @@ export default function Experience() {
             <p>
               Lidere la transición de proyectos al framework Next.js,
               encargándose de la migración y mantenimiento de sitios web
-              previamente desarrollados en Angular. Su rol se centró en asegurar
+              previamente desarrollados en Angular. Mi rol se centró en asegurar
               que la infraestructura técnica y el código fueran eficientes y
               escalables en el nuevo entorno de desarrollo
             </p>
@@ -31,10 +31,10 @@ export default function Experience() {
           </div>
           <div className="flex flex-col col-span-4">
             <p>
-              Como líder del equipo front-end, fui responsable de la creación de
+              Como líder del equipo front-end, fuí responsable de la creación de
               microfrontends y el diseño de librerías npm para su reutilización
-              en múltiples proyectos. Además, proporcionó capacitación técnica a
-              su equipo, mejorando la calidad y eficiencia del desarrollo.
+              en múltiples proyectos. Además, proporcioné capacitación técnica a
+              mi equipo, mejorando la calidad y eficiencia del desarrollo.
             </p>
           </div>
         </div>
@@ -48,8 +48,8 @@ export default function Experience() {
             <p>
               En mi rol como Tech Lead, me encargue de la delegación y
               supervisión de tareas entre los equipos (Frontend, Backend,
-              Mobile, QA). Coordinó la creación de historias de usuario con el
-              equipo de producto y participó en la estimación de los esfuerzos
+              Mobile, QA). Coordiné la creación de historias de usuario con el
+              equipo de producto y participé en la estimación de los esfuerzos
               necesarios para cada sprint de trabajo.
             </p>
           </div>
@@ -64,10 +64,10 @@ export default function Experience() {
           </div>
           <div className="flex flex-col col-span-4">
             <p>
-              Fui responsable de mantener la infraestructura de AWS
+              Fuí responsable de mantener la infraestructura de AWS
               (principalmente S3, CloudFront, Amplify) para asegurar el
               funcionamiento eficiente de los entornos de producción. Además,
-              desarrolló y mantuvo múltiples entornos de producción usando
+              desarrollé y mantuvé múltiples entornos de producción usando
               Angular.
             </p>
           </div>
@@ -102,7 +102,7 @@ export default function Experience() {
           <div className="flex flex-col col-span-4">
             <p>
               Trabajé en la mantenimiento de sitios web en Angular y en la
-              administración de servicios en la nube AWS. Se encargó del
+              administración de servicios en la nube AWS. Me encargé del
               mantenimiento de microservicios en Java y la infraestructura de
               AWS (EC2, S3, CloudFront, Elastic Beanstalk, CodePipeline),
               contribuyendo a la automatización y mejora de procesos de
