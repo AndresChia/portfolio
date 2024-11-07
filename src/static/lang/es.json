@@ -1,4 +1,13 @@
 {
   "experience": "Experiencia",
-  "contact": "Contacto"
+  "contact": "Contacto",
+  "skills": "Habilidades",
+  "technologies": "Tecnologias",
+  "projects": "Proyectos",
+  "email": "Email",
+  "contactUsAt": "Contáctenos en",
+  "phone": "Celular",
+  "reachOutToUsByPhone": "Contáctenos por teléfono",
+  "location": "Ubicación",
+  "findUsAt": "Encuéntrenos en"
 }

@@ -4,7 +4,7 @@ export default async function Header() {
   const i18n = await getDictionary();
 
   return (
-    <header className="fixed w-full top-0 bg-[#99a7ed12]">
+    <header className="fixed w-full top-0 bg-[#99a7ed12] z-20">
       <nav className="w-full">
         <div className="flex justify-between w-full px-16 py-8">
           <div>

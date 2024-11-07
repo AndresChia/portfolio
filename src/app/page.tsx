@@ -1,3 +1,5 @@
+import Contact from "@/components/Contact";
+import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Intro from "@/components/Intro";
@@ -11,8 +13,10 @@ export default function Home() {
         <Header />
         <Presentation />
         <Intro />
+        <Experience />
+        <Contact />
         <Footer />
-        <div className="fixed z-[9999] top-[-300%] left-[-150%] h-[600%] w-[600%] animate-grain bg-[url(/noise.png)] bg-[200px] bg-repeat opacity-25 pointer-events-none"></div>
+        <div className="fixed z-10 top-[-300%] left-[-150%] h-[600%] w-[600%] animate-grain bg-[url(/noise.png)] bg-[200px] bg-repeat opacity-25 pointer-events-none"></div>
       </div>
     </I18nIntlProvider>
   );
