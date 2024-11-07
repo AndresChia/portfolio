@@ -1,4 +1,5 @@
 import { getDictionary } from "@/config/i18n/dictionary";
+import Image from "next/image";
 
 export default async function Intro() {
   const i18n = await getDictionary();
@@ -27,7 +28,14 @@ export default async function Intro() {
             <span className="text-lg">Node</span>
           </div>
         </div>
-        <div className="hidden md:block object-cover w-1/4 h-screen rounded-full ring-2 ring-gray-500/50 ring-offset-[30px]" />
+        <Image
+          src="/techs.png"
+          width={500}
+          height={500}
+          alt="Picture of the author"
+          className="hidden md:block object-cover w-1/4 h-screen rounded-full ring-2 ring-white-500/50 ring-offset-[30px]"
+        />
+
         <div className="hidden md:flex flex-col w-1/3 space-y-12 text-right">
           <div className="px-20">
             <h4 className="text-xl font-bold">{i18n.experience}</h4>
