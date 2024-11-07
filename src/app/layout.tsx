@@ -17,6 +17,14 @@ export const metadata: Metadata = {
   title: "Portfolio - Andres Felipe Chia Avila",
   description:
     "Portafolio de Andres Felipe Chia Avila Senior Front End Developer. Creatividad y soluciones profesionales. Proyectos de calidad en diseño, desarrollo y más.",
+  openGraph: {
+    type: "website",
+    url: "https://portfolio-andreschias-projects.vercel.app/",
+    title: "Portfolio - Andres Felipe Chia Avila",
+    description:
+      "Portafolio de Andres Felipe Chia Avila Senior Front End Developer. Creatividad y soluciones profesionales. Proyectos de calidad en diseño, desarrollo y más.",
+    siteName: "Portfolio - Andres Felipe Chia Avila",
+  },
 };
 
 export default function RootLayout({
