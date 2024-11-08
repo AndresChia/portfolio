@@ -11,7 +11,7 @@ interface I8nProviderProps {
 
 /** this HOCs wrapps client components for CSR comps and enable i18n */
 export default function I18nIntlProvider({ children }: I8nProviderProps) {
-  const languageCode = process.env.NEXT_PUBLIC_COUNTRY_LANGUAGE ?? "";
+  const languageCode = process.env.NEXT_PUBLIC_COUNTRY_LANGUAGE ?? "es";
   let messages: Record<string, any> = English;
   switch (languageCode) {
     case "es":
